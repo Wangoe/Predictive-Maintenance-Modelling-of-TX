@@ -20,7 +20,7 @@ Failure Detection: Outputs whether the transformer is likely to fail or operate 
 
 How to Use
 
-Run the app.py file.
+Run the BETA.py file.
 Enter the transformer parameters in the input fields.
 Click the "Predict" button to check the failure condition.
 The result will display as either "Failure" or "No Failure".
